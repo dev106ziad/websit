@@ -1,0 +1,38 @@
+
+form{
+  width: 40%;
+  background: linear-gradient(69.9deg, rgb(255, 255, 255) 3.2%, rgb(255, 0, 0) 97.6%);
+  padding: 60px;
+  border-radius: 50px;
+  
+  margin-top: 0%;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+
+}
+.hero{
+  background-image: url(red1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 60%;
+  height: 60%;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform:translate(-50%,-50%) ;
+  position: absolute;
+  margin-top: 110%;
+  padding: 20%;
+}
+
+ 
+
+.btn-primary{
+  width: 100%;
+  border: none;
+  border-radius: 50px;
+  background: linear-gradient(to right, #fa0808 0%, #6b7b7b 100%);
+}
